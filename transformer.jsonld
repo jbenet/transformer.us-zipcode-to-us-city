@@ -1,0 +1,6 @@
+{
+  "@context": "",
+  "id": "us-zipcode-to-us-city",
+  "type": "conversion",
+  "description": "us-zipcode to us-city"
+}

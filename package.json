@@ -1,0 +1,17 @@
+{
+  "name": "transformer.us-zipcode-to-us-city",
+  "version": "0.0.1",
+  "description": "transformer conversion: us-zipcode to us-city",
+  "main": "index.js",
+  "transformer": "transformer.jsonld",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "transformer",
+    "transformer-conversion"
+  ],
+  "dependencies": {
+    "dat-transformer": "~0.1.5"
+  }
+}
