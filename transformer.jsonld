@@ -1,6 +1,8 @@
 {
-  "@context": "",
-  "id": "us-zipcode-to-us-city",
-  "type": "conversion",
-  "description": "us-zipcode to us-city"
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "conversion",
+ "input": "us-zipcode",
+ "output": "us-city",
+ "id": "us-zipcode-to-us-city",
+ "description": "us-zipcode to us-city"
 }
